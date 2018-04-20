@@ -23,6 +23,6 @@ The results of the funnel are displayed in the following table:
 * num_login: number of activated accounts that logged in once
 
 The data visualized:
-![graph of funnel](./img/meta-chart.png?v=4&s=100)
+<img src="./img/meta-chart.png" width="200" height="200">
 
 This funnel gives insights on the onboarding process used on new customers, and can be executed upon. 133 users (dropoff from 225 activated accounts to 92 logins) are detected to be in churn risk, and action must be taken to get them back. The same funnel can be built a week from now to measure the delta conversion rate.
