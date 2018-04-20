@@ -13,6 +13,10 @@ I accessed two databases:
 ![playbook_events](./img/EventTable.png)
 
 Using the data I determined how many users activated the accounts they created, and subsequently logged in once in March 2013.
+The results of the funnel are displayed in the following table
+---
+
+![funnel_table](./img/FunnelTable.png)
 
 
 This funnel gives insights on the onboarding process used on new customers, and can be executed upon. 133 users (dropoff from 225 activated accounts to 92 logins) are detected to be in churn risk, and action must be taken to get them back. The same funnel can be built a week from now to measure the delta conversion rate.
