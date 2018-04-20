@@ -3,8 +3,8 @@ SQL queries to create a conversion funnel on demo test data provided by [Mode An
 
 I learned the basics of SQL and wrote queries to determine user dropoff based on test-user data. 
 I accessed two databases: 
-1) playbook_users  ![playbook_users](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-2) playbook_events ![playbook_events](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+1) playbook_users  ![playbook_users](./img/UserTable.png)
+2) playbook_events ![playbook_events](./img/EventTable.png)
 
 Using the data I determined how many users activated the accounts they created, and subsequently logged in once in March 2013.
 
