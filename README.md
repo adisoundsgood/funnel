@@ -6,9 +6,8 @@ I accessed two databases:
 1) playbook_users  
 ![playbook_users](./img/UserTable.png)
 
-
-
 2) playbook_events 
+
 ![playbook_events](./img/EventTable.png)
 
 Using the data I determined how many users activated the accounts they created, and subsequently logged in once in March 2013.
